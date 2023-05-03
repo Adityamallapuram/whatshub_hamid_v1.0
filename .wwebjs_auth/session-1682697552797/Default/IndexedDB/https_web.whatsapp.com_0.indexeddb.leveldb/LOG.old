@@ -1,0 +1,14 @@
+2023/04/28-21:43:56.525 4b03 Reusing MANIFEST /Users/tmblr1021l0043/Desktop/Archive/.wwebjs_auth/session-1682697552797/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/28-21:43:56.525 4b03 Recovering log #21
+2023/04/28-21:43:56.582 4b03 Reusing old log /Users/tmblr1021l0043/Desktop/Archive/.wwebjs_auth/session-1682697552797/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000021.log 
+2023/04/28-21:44:21.018 5537 Level-0 table #29: started
+2023/04/28-21:44:21.077 5537 Level-0 table #29: 1126981 bytes OK
+2023/04/28-21:44:21.119 5537 Delete type=0 #21
+2023/04/28-21:44:21.847 5537 Compacting 1@1 + 2@2 files
+2023/04/28-21:44:21.969 5537 Generated table #30@1: 34797 keys, 2191816 bytes
+2023/04/28-21:44:22.062 5537 Generated table #31@1: 30418 keys, 1255754 bytes
+2023/04/28-21:44:22.062 5537 Compacted 1@1 + 2@2 files => 3447570 bytes
+2023/04/28-21:44:22.101 5537 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/04/28-21:44:22.102 5537 Delete type=2 #29
+2023/04/28-21:44:22.102 5537 Delete type=2 #26
+2023/04/28-21:44:22.102 5537 Delete type=2 #25
